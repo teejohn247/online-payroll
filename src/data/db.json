@@ -1,0 +1,9 @@
+{
+    "users": [
+      { "id": 1, "name": "json-server", "password": "typicode", "email":"john@gmail.com" }
+    ],
+    "questions": [
+      { "id": 1, "title": "some comment", "categories": 1, "userId": 1 }
+    ],
+    "answers": { "name": "typicode" }
+  }

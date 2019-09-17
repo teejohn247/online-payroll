@@ -1,0 +1,11 @@
+div .nav-item{
+    display: flex;
+    flex-direction: row;
+}
+body{
+    margin:0px;
+}
+ul li{
+    margin:3px;
+    list-style: none;
+}
